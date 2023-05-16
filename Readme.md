@@ -1,4 +1,4 @@
-<h1>Projeto Tic tac toe</h1>
+<h1>Projeto Todo List Web</h1>
 <h4>🚀 Projeto Todo List Web desenvolvido com React + TS</h4>
 
 <h2>🚧 Status do projeto</h2>
